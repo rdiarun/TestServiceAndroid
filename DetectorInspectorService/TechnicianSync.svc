@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DetectorService.TechnicianSync" CodeBehind="TechnicianSync.svc.cs" %>
